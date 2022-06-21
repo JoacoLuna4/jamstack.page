@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Portfolio website",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "Portfolio developer",
         "has_nav": true,
         "nav_links": [
             {
@@ -44,29 +44,14 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Github",
+                "url": "https://www.github.com/JoacoLuna4",
                 "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
+                "icon": "github",
+                "new_window": true},
+                {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/Joaquin-Luna",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
